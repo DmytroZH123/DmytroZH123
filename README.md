@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="http://gifimgs.com/res/0822/6303d76d03244408441582.gif" width = "800" height = "600"/>
+<div align="center">
+  <img src="https://miro.medium.com/max/1400/1*dRpCFDfCC1WUAdE6SB74zA.gif" width = "600"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/dmytro-zhuk/">
@@ -7,9 +7,6 @@
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
