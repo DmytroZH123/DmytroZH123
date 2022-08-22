@@ -12,7 +12,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  
+
+<h2>
+  Hello! My name is Dmytro Zhuk
+</h2>
   
 </div>
 
