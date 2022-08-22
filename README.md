@@ -54,7 +54,6 @@
   <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo1024.png" width="70" height="70"/>
   <img src="https://findicons.com/files/icons/2420/coded/256/sql.png" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70"/>
 
                   
   
