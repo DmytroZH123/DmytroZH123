@@ -54,10 +54,13 @@
   <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo1024.png" width="70" height="70"/>
   <img src="https://findicons.com/files/icons/2420/coded/256/sql.png" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>
-
-                  
+                 
   
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroZH123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
