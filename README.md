@@ -49,7 +49,6 @@
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/qrugo0ng5eo6xmzweail" width="80" height="80"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="60" height="60"/>&nbsp;
   <img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" width="75" height="75"/>&nbsp;
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70" height="70"/>
   <img src="https://res.cloudinary.com/go1/image/upload/q_60,h_256/v1524238467/nsajzdpphy7qxjaps3og.png" width="75" height="75"/>
   <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo1024.png" width="70" height="70"/>
