@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170"/>
+  <img src="http://gifimgs.com/res/0822/6303d76d03244408441582.gif" width = "800" height = "600"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/dmytro-zhuk/">
@@ -70,7 +70,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif" width="300"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
+https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
 <img src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif" width="280" align="right"/>
 
 --->
