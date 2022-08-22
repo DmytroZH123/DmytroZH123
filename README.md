@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif" width="200"/>
+  <img src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif" width="300"/>
   <img src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif" width="174"/>
 </div>
 
