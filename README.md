@@ -30,7 +30,7 @@
 
 - 💞️ In my free time I like jazz music, opera, Italian Art and travelling. Tabletop games are the best! 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DZhuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-zhuk/)  [![Gmail Badge](https://img.shields.io/badge/-DZhuk-blue?style=flat&logo=Linkedin&logoColor=red)](mailto:dmytrozhuk9@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DZhuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-zhuk/)  [![Gmail Badge](https://img.shields.io/badge/-DZhuk-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmytrozhuk9@gmail.com)
 
 
 
