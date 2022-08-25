@@ -20,20 +20,19 @@
 
 ### :man_technologist: About Me:
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 👋 Hello everyone! I'm Junior Data Analyst, interested in sphere of Data Analysis and Artificial Intelligence. 
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I'm a student of 2 universities studying simultaneously and obtaining Bachelor's Degree and BSc. in Computer Systems Analysis and Information Technology.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: Currently learning Unsupervised Machine Learning, Neural Networks 
+
+- :zap: Communicative, responsible, problem-solving, teamwork, creative, have great attention to details. 
+
+- 💞️ In my free time I like jazz music, opera, Italian Art and travelling. Tabletop games are the best! 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DZhuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-zhuk/)
 
 
-- 👋 Hi, I’m @DmytroZH123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 ---
 
