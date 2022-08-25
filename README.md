@@ -24,7 +24,7 @@
 
 - :telescope: I'm a student of 2 universities studying simultaneously and obtaining Bachelor's Degree and BSc. in Computer Systems Analysis and Information Technology.
 
-- :seedling: Currently learning Unsupervised Machine Learning, Neural Networks 
+- :seedling: Currently learning Unsupervised Machine Learning, Neural Networks.
 
 - :zap: Communicative, responsible, problem-solving, teamwork, creative, have great attention to details. 
 
