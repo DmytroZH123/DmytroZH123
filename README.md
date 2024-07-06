@@ -20,11 +20,11 @@
 
 ### :man_technologist: About Me:
 
-- 👋 Hello everyone! I'm Junior Data Analyst, interested in sphere of Data Analysis and Artificial Intelligence. 
+- 👋 Hello everyone! I am Data Scientist, interested in the job of Data Scientist or Machine Learning Engineer.  
 
-- :telescope: I'm a student of 2 universities studying simultaneously and obtaining Bachelor's Degree and BSc. in Computer Systems Analysis and Information Technology.
+- :telescope: I am a student of Vienna University pursuing Master's Degree in Data Science. I have graduated from Kyiv National Economic University having Bachelor's Degree in System Analysis with distinction.
 
-- :seedling: Currently learning Unsupervised Machine Learning, Neural Networks.
+- :seedling: Interested in Explainable AI and Natural Language Processing.
 
 - :zap: Communicative, responsible, problem-solving, teamwork, creative, have great attention to details. 
 
