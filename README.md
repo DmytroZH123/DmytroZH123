@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/max/1400/1*dRpCFDfCC1WUAdE6SB74zA.gif" width = "600"/>
+  <img src="https://imageio.forbes.com/specials-images/imageserve/663b14f330ff2232e88dd9f3/The-Important-Difference-Between-Generative-AI-And-AGI/960x0.jpg?format=jpg&width=960" width = "600"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/dmytro-zhuk/">
@@ -20,15 +20,15 @@
 
 ### :man_technologist: About Me:
 
-- 👋 Hello everyone! I am Data Scientist, interested in the job of Data Scientist or Machine Learning Engineer.  
+- 👋 I am Data Scientist, currently student of Vienna University pursuing Master's Degree in Data Science. 
 
-- :telescope: I am a student of Vienna University pursuing Master's Degree in Data Science. I have graduated from Kyiv National Economic University having Bachelor's Degree in System Analysis with distinction.
+- :telescope: I have graduated from Kyiv National Economic University having Bachelor's Degree in System Analysis with distinction.
 
-- :seedling: Interested in Explainable AI and Natural Language Processing.
+- :seedling: Interested in Explainable AI, Natural Language Processing, and Reinforcement Learning.
 
-- :zap: Communicative, responsible, problem-solving, teamwork, creative, have great attention to details. 
+- :zap: Communicative, responsible, problem-solving, teamwork, creative, and have great attention to details. 
 
-- 💞️ In my free time I like jazz music, opera, Italian Art and travelling. Tabletop games are the best! 
+- 💞️ In my free time I like jazz music, opera, Italian Art, and travelling. Tabletop games are the best! 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DZhuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-zhuk/)  [![Gmail Badge](https://img.shields.io/badge/-DZhuk-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmytrozhuk9@gmail.com)
 
@@ -40,17 +40,18 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg"  width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/elasticsearch/elasticsearch-original-wordmark.svg"  width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/qrugo0ng5eo6xmzweail" width="80" height="80"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="60" height="60"/>&nbsp;
-  <img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" width="75" height="75"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70" height="70"/>
-  <img src="https://res.cloudinary.com/go1/image/upload/q_60,h_256/v1524238467/nsajzdpphy7qxjaps3og.png" width="75" height="75"/>
-  <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo1024.png" width="70" height="70"/>
-  <img src="https://findicons.com/files/icons/2420/coded/256/sql.png" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>
-                 
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original-wordmark.svg" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/plotly/plotly-original-wordmark.svg" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kibana/kibana-original-wordmark.svg" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original-wordmark.svg" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rancher/rancher-original-wordmark.svg" width="70" height="70"/>&nbsp;         
   
 </div>
 
