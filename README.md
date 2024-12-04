@@ -47,19 +47,17 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" width="70" height="70"/>&nbsp;
-
-  # nlp libraries
-  
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" width="70" height="70"/>&nbsp;  
   <img src="https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" width="70" height="70"/>&nbsp;
-
-
+  <img src="https://explosion.gallerycdn.vsassets.io/extensions/explosion/spacy-extension/1.0.1/1685718946744/Microsoft.VisualStudio.Services.Icons.Default" width="70" height="70"/>&nbsp;
+  <img src="https://rare-technologies.com/wp-content/uploads/2016/02/rare_image_only.png" width="70" height="70"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:1024/1*z6ZJQXsdARI0ojY-AlGhZA.png" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/plotly/plotly-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  # seaborn
+  <img src="https://avatars.githubusercontent.com/u/22799945?s=280&v=4" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kibana/kibana-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  # power bi
-  # tableau
+  <img src="https://img.icons8.com/color/512/power-bi.png" width="70" height="70"/>&nbsp;
+  <img src="https://external-preview.redd.it/5ihQbRQ2H9w6ASxXSQdMPlQwQ7kwSHNyOpVfjNvfxmc.jpg?width=640&crop=smart&auto=webp&s=ed4beda40d54a6223f3dc0c6cbcd4666b273ca0c" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rancher/rancher-original-wordmark.svg" width="70" height="70"/>&nbsp;  
