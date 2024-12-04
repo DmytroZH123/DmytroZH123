@@ -46,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original-wordmark.svg" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" width="70" height="70"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/plotly/plotly-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kibana/kibana-original-wordmark.svg" width="70" height="70"/>&nbsp;
