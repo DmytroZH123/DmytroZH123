@@ -24,7 +24,7 @@
 
 - :telescope: I have graduated from Kyiv National Economic University having Bachelor's Degree in System Analysis with distinction.
 
-- :seedling: Interested in Explainable AI, Natural Language Processing, and Reinforcement Learning.
+- :seedling: Interested in Human-Computer Interaction, Explainable Artificial Intelligence, Natural Language Processing, Random Processes, and Reinforcement Learning.
 
 - :zap: Communicative, responsible, problem-solving, teamwork, creative, and have great attention to details. 
 
