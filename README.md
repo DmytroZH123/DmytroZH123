@@ -47,13 +47,22 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" width="70" height="70"/>&nbsp;
+
+  # nlp libraries
+  
+  <img src="https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" width="70" height="70"/>&nbsp;
+
 
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/plotly/plotly-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="70" height="70"/>&nbsp;
+  # seaborn
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kibana/kibana-original-wordmark.svg" width="70" height="70"/>&nbsp;
+  # power bi
+  # tableau
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rancher/rancher-original-wordmark.svg" width="70" height="70"/>&nbsp;         
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rancher/rancher-original-wordmark.svg" width="70" height="70"/>&nbsp;  
   
 </div>
 
