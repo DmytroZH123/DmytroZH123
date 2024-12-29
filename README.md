@@ -52,6 +52,10 @@
   <img src="https://explosion.gallerycdn.vsassets.io/extensions/explosion/spacy-extension/1.0.1/1685718946744/Microsoft.VisualStudio.Services.Icons.Default" width="70" height="70"/>&nbsp;
   <img src="https://rare-technologies.com/wp-content/uploads/2016/02/rare_image_only.png" width="70" height="70"/>&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:1024/1*z6ZJQXsdARI0ojY-AlGhZA.png" width="70" height="70"/>&nbsp;
+  <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" width="70" height="70"/>&nbsp;
+  <img src="https://api.nuget.org/v3-flatcontainer/langchain.databases.chroma/0.13.1-dev.22/icon" width="70" height="70"/>&nbsp;
+  <img src="https://images.saasworthy.com/gradio_43063_logo_1681283997_9ue7l.jpg" width="60" height="60"/>&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1709318015232167936/qHdYK7vp_400x400.png" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/plotly/plotly-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="70" height="70"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/22799945?s=280&v=4" width="70" height="70"/>&nbsp;
