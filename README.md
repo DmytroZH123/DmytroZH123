@@ -16,62 +16,19 @@
   
 </div>
 
----
-
 ### :man_technologist: About Me:
 
-- 👋 I am Data Scientist, currently student of Vienna University pursuing Master's Degree in Data Science. 
+👋 I am Applied Data Scientist, Artificial Intelligence Engineer, currently pursuing a Master's degree in Data Science at the University of Vienna.
 
-- :telescope: I have graduated from Kyiv National Economic University having Bachelor's Degree in System Analysis with distinction.
+🔭 I graduated from Kyiv National Economic University with a Bachelor's degree in System Analysis (with distinction).
 
-- :seedling: Interested in Human-Computer Interaction, Explainable Artificial Intelligence, Natural Language Processing, Random Processes, and Reinforcement Learning.
+🌱 I am interested in Human-Computer Interaction, Explainable and Transparent AI, NLP, and Random Processes.
 
-- :zap: Communicative, responsible, problem-solving, teamwork, creative, and have great attention to details. 
+⚡ I am communicative, responsible, creative, detail-oriented, and skilled in problem-solving and teamwork.
 
-- 💞️ In my free time I like jazz music, opera, Italian Art, and travelling. Tabletop games are the best! 
+💞️ In my free time, I enjoy jazz music, opera, Italian art, traveling, and playing tabletop games.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DZhuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-zhuk/)  [![Gmail Badge](https://img.shields.io/badge/-DZhuk-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmytrozhuk9@gmail.com)
-
-
-
----
-
-### :hammer_and_wrench: Languages and Tools:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg"  width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/elasticsearch/elasticsearch-original-wordmark.svg"  width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" width="70" height="70"/>&nbsp;  
-  <img src="https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" width="70" height="70"/>&nbsp;
-  <img src="https://explosion.gallerycdn.vsassets.io/extensions/explosion/spacy-extension/1.0.1/1685718946744/Microsoft.VisualStudio.Services.Icons.Default" width="70" height="70"/>&nbsp;
-  <img src="https://rare-technologies.com/wp-content/uploads/2016/02/rare_image_only.png" width="70" height="70"/>&nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:1024/1*z6ZJQXsdARI0ojY-AlGhZA.png" width="70" height="70"/>&nbsp;
-  <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" width="70" height="70"/>&nbsp;
-  <img src="https://api.nuget.org/v3-flatcontainer/langchain.databases.chroma/0.13.1-dev.22/icon" width="70" height="70"/>&nbsp;
-  <img src="https://images.saasworthy.com/gradio_43063_logo_1681283997_9ue7l.jpg" width="60" height="60"/>&nbsp;
-  <img src="https://pbs.twimg.com/profile_images/1709318015232167936/qHdYK7vp_400x400.png" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/plotly/plotly-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/22799945?s=280&v=4" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kibana/kibana-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  <img src="https://img.icons8.com/color/512/power-bi.png" width="70" height="70"/>&nbsp;
-  <img src="https://external-preview.redd.it/5ihQbRQ2H9w6ASxXSQdMPlQwQ7kwSHNyOpVfjNvfxmc.jpg?width=640&crop=smart&auto=webp&s=ed4beda40d54a6223f3dc0c6cbcd4666b273ca0c" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original-wordmark.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rancher/rancher-original-wordmark.svg" width="70" height="70"/>&nbsp;  
-  
-</div>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroZH123&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DZhuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-zhuk/)  [![Gmail Badge](https://img.shields.io/badge/-DZhuk-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmytrozhuk9@gmail.com)
 
 <!---
 DmytroZH123/DmytroZH123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
